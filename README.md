@@ -1,5 +1,5 @@
 # ML_Chem
-End-to-end machine learning for chemistry: from RDKit molecular representations (Morgan fingerprints, SMILES, molecular graphs) to RNNs (GRU, LSTM), CNNs (shallow and deep), and GNNs (shallow and deep) for aqueous solubility prediction
+A systematic study of molecular representations (Morgan fingerprints, SMILES, molecular graphs) and deep learning models (RNNs with GRU/LSTM, CNNs, GNNs) for aqueous solubility prediction, built with RDKit and PyTorch
 
 # ML_CHEM - 分子机器学习练习项目
 
